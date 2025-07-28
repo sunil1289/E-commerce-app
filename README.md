@@ -1,7 +1,7 @@
 ecommerce
 =========
 
-**Note: This project is no longer being maintained.**
+
 
 A PHP e-commerce web application.
 
